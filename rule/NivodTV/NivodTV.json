@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "nivod"
+      ],
+      "domain_suffix": [
+        "vod360.net",
+        "newpppp.com",
+        "mudvod.tv",
+        "biggggg.com",
+        "nbyy.tv",
+        "nbys.tv",
+        "nbys1.tv"
+      ]
+    }
+  ],
+  "version": 2
+}

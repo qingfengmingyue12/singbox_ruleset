@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "elong.com",
+        "elongstatic.com",
+        "17usoft.com",
+        "17u.cn",
+        "40017.cn",
+        "17u.net",
+        "17usoft.net",
+        "ly.com"
+      ]
+    }
+  ],
+  "version": 2
+}
